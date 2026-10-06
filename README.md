@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Stay hungry, stay foolish." - Steve Jobs
+> "The breeze at dawn has secrets to tell you. Don't go back to sleep." — *Rumi*
 <!-- QUOTE_END -->
