@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The Criminal Is Trying To Solve His Immediate Problems." — *Naguib Mahfouz*
+> "If you want to shine like the sun, first burn like the sun." — *Abdul Kalam*
 <!-- QUOTE_END -->
