@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work." — *Abdul Kalam*
+> "In Order To Exist Just Once In The World, It Is Necessary Never Again To Exist." — *Albert Camus*
 <!-- QUOTE_END -->
