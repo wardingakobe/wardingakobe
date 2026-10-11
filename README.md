@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "In Order To Exist Just Once In The World, It Is Necessary Never Again To Exist." — *Albert Camus*
+> "Expect The Best. Prepare For The Worst. Capitalize On What Comes." — *Zig Ziglar*
 <!-- QUOTE_END -->
