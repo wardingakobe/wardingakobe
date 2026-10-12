@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Expect The Best. Prepare For The Worst. Capitalize On What Comes." — *Zig Ziglar*
+> "The Only Way To Do News On Television Is Not To Be Terrified Of It." — *David Brinkley*
 <!-- QUOTE_END -->
