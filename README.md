@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Do not be too hard, lest you be broken; do not be too soft, lest you be squeezed." — *Ali ibn Abi Talib (R.A)*
+> "Words are a pretext. It is the inner bond that draws one person to another, not words." — *Rumi*
 <!-- QUOTE_END -->
