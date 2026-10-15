@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Words are a pretext. It is the inner bond that draws one person to another, not words." — *Rumi*
+> "A True friend is one who sees a fault, gives you advice and who defends you in your absence." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
