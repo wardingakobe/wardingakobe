@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "A True friend is one who sees a fault, gives you advice and who defends you in your absence." — *Ali ibn Abi Talib (R.A)*
+> "When I Do Good, I Feel Good. When I Do Bad, I Feel Bad. That'S My Religion." — *Abraham Lincoln*
 <!-- QUOTE_END -->
