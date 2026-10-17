@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "When I Do Good, I Feel Good. When I Do Bad, I Feel Bad. That'S My Religion." — *Abraham Lincoln*
+> "It Is Always Consoling To Think Of Suicide: In That Way One Gets Through Many A Bad Night." — *Friedrich Nietzsche*
 <!-- QUOTE_END -->
