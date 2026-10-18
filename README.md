@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "It Is Always Consoling To Think Of Suicide: In That Way One Gets Through Many A Bad Night." — *Friedrich Nietzsche*
+> "Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around." — *Abdul Kalam*
 <!-- QUOTE_END -->
