@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around." — *Abdul Kalam*
+> "One best book is equal to hundred good friends but one good friend is equal to a library." — *Abdul Kalam*
 <!-- QUOTE_END -->
