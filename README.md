@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Who do you think's better looking people in the north or people in the south?" — *Umar ibn Al-Khattāb (R.A)*
+> "I closed my mouth and spoke to you in a hundred silent ways." — *Rumi*
 <!-- QUOTE_END -->
