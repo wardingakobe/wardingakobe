@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Where The Spirit Does Not Work With The Hand, There Is No Art." — *Leonardo Da Vinci*
+> "He who does now know evil will fall into it." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
