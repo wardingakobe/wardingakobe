@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "He who does now know evil will fall into it." — *Umar ibn Al-Khattāb (R.A)*
+> "The most important of your affairs in my view is prayer; whoever prays regularly has protected his faith, but whoever neglects it, is bound to be more negligent in other issues of faith." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
