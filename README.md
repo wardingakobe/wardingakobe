@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It." — *Henry Ford*
+> "The Value Of An Idea Lies In The Using Of It." — *Thomas A. Edison*
 <!-- QUOTE_END -->
