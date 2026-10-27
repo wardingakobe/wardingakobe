@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The Value Of An Idea Lies In The Using Of It." — *Thomas A. Edison*
+> "He who guards his secrets retains control in his own hands." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
