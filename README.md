@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "He who guards his secrets retains control in his own hands." — *Ali ibn Abi Talib (R.A)*
+> "If You Can'T Fly Then Run, If You Can'T Run Then Walk, If You Can'T Walk Then Crawl, But Whatever You Do You Have To Keep Moving Forward." — *Martin Luther King  Jr.*
 <!-- QUOTE_END -->
