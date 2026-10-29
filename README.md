@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "If You Can'T Fly Then Run, If You Can'T Run Then Walk, If You Can'T Walk Then Crawl, But Whatever You Do You Have To Keep Moving Forward." — *Martin Luther King  Jr.*
+> "If You Have Good Thoughts They Will Shine Out Of Your Face Like Sunbeams And You Will Always Look Lovely." — *Roald Dahl*
 <!-- QUOTE_END -->
