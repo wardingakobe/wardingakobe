@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "If You Have Good Thoughts They Will Shine Out Of Your Face Like Sunbeams And You Will Always Look Lovely." — *Roald Dahl*
+> "He who busies himself with things other than improvement of his own self becomes perplexed in darkness and entangled in ruin. His evil spirits immerse him deep in vices and make his bad actions seem handsome." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
