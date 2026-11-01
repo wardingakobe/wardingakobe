@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "I Am Not Bound To Please Thee With My Answer." — *William Shakespeare*
+> "Whatever happens, just keep smiling and lose yourself in Love." — *Rumi*
 <!-- QUOTE_END -->
