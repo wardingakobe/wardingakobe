@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Whatever happens, just keep smiling and lose yourself in Love." — *Rumi*
+> "The Bay of Bengal is hit frequently by cyclones. The months of November and May, in particular, are dangerous in this regard." — *Abdul Kalam*
 <!-- QUOTE_END -->
