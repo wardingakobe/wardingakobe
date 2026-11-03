@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The Bay of Bengal is hit frequently by cyclones. The months of November and May, in particular, are dangerous in this regard." — *Abdul Kalam*
+> "Trust is that there should be no difference between what you do and say and what you think." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
