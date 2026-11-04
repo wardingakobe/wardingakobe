@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Trust is that there should be no difference between what you do and say and what you think." — *Umar ibn Al-Khattāb (R.A)*
+> "A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything." — *Friedrich Nietzsche*
 <!-- QUOTE_END -->
