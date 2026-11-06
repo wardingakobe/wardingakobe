@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Once the seed of faith takes root, it cannot be blown away, even by the strongest wind - Now that's a blessing." — *Rumi*
+> "Our Greatest Fear Should Not Be Of Failure But Of Succeeding At Things In Life That Don'T Really Matter." — *Francis Chan*
 <!-- QUOTE_END -->
