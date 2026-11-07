@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Our Greatest Fear Should Not Be Of Failure But Of Succeeding At Things In Life That Don'T Really Matter." — *Francis Chan*
+> "Mickey Mouse Is, To Me, A Symbol Of Independence. He Was A Means To An End." — *Walt Disney*
 <!-- QUOTE_END -->
