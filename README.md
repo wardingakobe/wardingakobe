@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Mickey Mouse Is, To Me, A Symbol Of Independence. He Was A Means To An End." — *Walt Disney*
+> "No man can have anything better after faith than a woman of righteous character, loving and child-bearing. And no man can have anything worse after unbelief than a sharp-tongued woman of bad character." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
