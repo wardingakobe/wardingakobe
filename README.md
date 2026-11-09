@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "No man can have anything better after faith than a woman of righteous character, loving and child-bearing. And no man can have anything worse after unbelief than a sharp-tongued woman of bad character." — *Umar ibn Al-Khattāb (R.A)*
+> "Loyalty To The Country Always. Loyalty To The Government When It Deserves It." — *Mark Twain*
 <!-- QUOTE_END -->
