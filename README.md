@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Loyalty To The Country Always. Loyalty To The Government When It Deserves It." — *Mark Twain*
+> "It is better to listen to a wise enemy than to seek counsel from a foolish friend." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
