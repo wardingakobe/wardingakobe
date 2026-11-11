@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "It is better to listen to a wise enemy than to seek counsel from a foolish friend." — *Ali ibn Abi Talib (R.A)*
+> "For those who practice tyranny and deprive others of their rights, I will be harsh and stern, but for those who follow the law, I will be most soft and tender." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
