@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The Earth is the most powerful and energetic planet." — *Abdul Kalam*
+> "No Matter What People Tell You, Words And Ideas Can Change The World." — *Robin Williams*
 <!-- QUOTE_END -->
