@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "No Matter What People Tell You, Words And Ideas Can Change The World." — *Robin Williams*
+> "The highest person is he who is of most use to humankind." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
