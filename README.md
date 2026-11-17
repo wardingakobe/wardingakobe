@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The Very Essence Of Instinct Is That It'S Followed Independently Of Reason." — *Charles Darwin*
+> "You Are Never Too Old To Set Another Goal Or To Dream A New Dream." — *C. S. Lewis*
 <!-- QUOTE_END -->
