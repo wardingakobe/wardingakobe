@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him." — *William Shakespeare*
+> "You were born with wings, why prefer to crawl through life?" — *Rumi*
 <!-- QUOTE_END -->
