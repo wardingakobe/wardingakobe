@@ -13,5 +13,5 @@ echo "Building, breaking, and securing networks & systems."
 - **Fun Fact:** "There is no place like `127.0.0.1`."
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "You were born with wings, why prefer to crawl through life?" — *Rumi*
+> "You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win." — *Zig Ziglar*
 <!-- QUOTE_END -->
